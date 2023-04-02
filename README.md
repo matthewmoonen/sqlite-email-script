@@ -1,4 +1,4 @@
-# sqlite-email-script
+# Email Forwarding Script
 
 This Python script periodically checks an SQLite database for new contact form submissions and sends them to the site owner via email. This script is scheduled to run via a cron job, which is configured in the Ubuntu Server settings.
 
